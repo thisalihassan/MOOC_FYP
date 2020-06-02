@@ -10,3 +10,6 @@
 [submodule "audio_multi_peer"]
 	path = audio_multi_peer
 	url = https://github.com/thisalihassan/MOOC_audio_call
+[submodule "Video_Broadcasting"]
+	path = Video_Broadcasting
+	url = https://github.com/thisalihassan/MOOC_video_broadcasting
