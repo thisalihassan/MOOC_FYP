@@ -6,7 +6,7 @@
 	url = https://github.com/thisalihassan/mooc-front-end
 [submodule "Screen_Broadcasting"]
 	path = Screen_Broadcasting
-	url = https://github.com/thisalihassan/MOOC_screen_broadcast
+	url = https://github.com/thisalihassan/MOOC_screen_broadcasting
 [submodule "audio_multi_peer"]
 	path = audio_multi_peer
 	url = https://github.com/thisalihassan/MOOC_audio_call
