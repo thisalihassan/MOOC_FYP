@@ -4,3 +4,6 @@
 [submodule "New folder (3)/clientStart"]
 	path = New folder (3)/clientStart
 	url = https://github.com/thisalihassan/mooc-front-end
+[submodule "Screen_Broadcasting"]
+	path = Screen_Broadcasting
+	url = https://github.com/thisalihassan/MOOC_screen_broadcast
