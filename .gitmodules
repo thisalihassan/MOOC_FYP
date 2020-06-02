@@ -1,0 +1,6 @@
+[submodule "MOOC_Backend"]
+	path = MOOC_Backend
+	url = https://github.com/thisalihassan/back-end-mooc
+[submodule "New folder (3)/clientStart"]
+	path = New folder (3)/clientStart
+	url = https://github.com/thisalihassan/mooc-front-end
